@@ -1,0 +1,11 @@
+.caixa{
+    position: relative;
+    width: 100%;
+    margin: 0  auto;
+}
+
+header img{
+    position: absolute;
+    margin: 0 50%;
+    width: 20%;
+}
